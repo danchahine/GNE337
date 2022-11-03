@@ -1,0 +1,11 @@
+Model Information:
+* title:	rocky_ground
+* source:	https://sketchfab.com/3d-models/rocky-ground-3fa6d27a59994bf0a20a4822b0b52781
+* author:	milanpop322 (https://sketchfab.com/milanpop322)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rocky_ground" (https://sketchfab.com/3d-models/rocky-ground-3fa6d27a59994bf0a20a4822b0b52781) by milanpop322 (https://sketchfab.com/milanpop322) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
