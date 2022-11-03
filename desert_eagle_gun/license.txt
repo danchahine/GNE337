@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert Eagle Gun
+* source:	https://sketchfab.com/3d-models/desert-eagle-gun-1605b6c38826433fb3fe564e1d043199
+* author:	attix84work (https://sketchfab.com/attix84work)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert Eagle Gun" (https://sketchfab.com/3d-models/desert-eagle-gun-1605b6c38826433fb3fe564e1d043199) by attix84work (https://sketchfab.com/attix84work) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

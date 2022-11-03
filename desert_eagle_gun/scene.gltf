@@ -1,0 +1,1071 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 51574,
+      "max": [
+        1.6327464580535889,
+        9.071748733520508,
+        1.4660046100616455
+      ],
+      "min": [
+        -1.6327464580535889,
+        -8.491247177124023,
+        -4.460816383361816
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 618888,
+      "componentType": 5126,
+      "count": 51574,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 51574,
+      "max": [
+        1.287702202796936,
+        1.2998385429382324
+      ],
+      "min": [
+        -0.30344605445861816,
+        -0.3096492290496826
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 304080,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1237776,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        1.1056573390960693,
+        -5.048125267028809,
+        -0.5282780528068542
+      ],
+      "min": [
+        -1.1056573390960693,
+        -5.205131530761719,
+        -0.6852837800979614
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1251840,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 412592,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        0.023451553657650948,
+        0.8582500219345093
+      ],
+      "min": [
+        -0.22864466905593872,
+        0.6041265726089478
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1216320,
+      "componentType": 5125,
+      "count": 6720,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1265904,
+      "componentType": 5126,
+      "count": 1666,
+      "max": [
+        1.1050493717193604,
+        -4.543540000915527,
+        -0.3743661046028137
+      ],
+      "min": [
+        -1.1050493717193604,
+        -4.794097900390625,
+        -0.5583093762397766
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1285896,
+      "componentType": 5126,
+      "count": 1666,
+      "max": [
+        1.0,
+        0.9995499849319458,
+        0.9982638955116272
+      ],
+      "min": [
+        -1.0,
+        -0.9995508193969727,
+        -0.9982638955116272
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 421968,
+      "componentType": 5126,
+      "count": 1666,
+      "max": [
+        0.7237646579742432,
+        0.5099393129348755
+      ],
+      "min": [
+        0.27618861198425293,
+        0.19957245886325836
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 435296,
+      "componentType": 5126,
+      "count": 1666,
+      "max": [
+        0.7237646579742432,
+        0.5099393129348755
+      ],
+      "min": [
+        0.27618861198425293,
+        0.19957245886325836
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1243200,
+      "componentType": 5125,
+      "count": 9792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1305888,
+      "componentType": 5126,
+      "count": 11980,
+      "max": [
+        0.2557288706302643,
+        -0.569553017616272,
+        0.4349988102912903
+      ],
+      "min": [
+        -0.2557288706302643,
+        -1.5573481321334839,
+        -0.8616381883621216
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1449648,
+      "componentType": 5126,
+      "count": 11980,
+      "max": [
+        0.9999911785125732,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999911785125732,
+        -0.9999957084655762,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 448624,
+      "componentType": 5126,
+      "count": 11980,
+      "max": [
+        0.9504303932189941,
+        0.9992899298667908
+      ],
+      "min": [
+        0.012931997887790203,
+        0.00021642912179231644
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1282368,
+      "componentType": 5125,
+      "count": 66720,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1593408,
+      "componentType": 5126,
+      "count": 3513,
+      "max": [
+        1.0103847980499268,
+        -3.134963274002075,
+        -8.962799072265625
+      ],
+      "min": [
+        -1.0103847980499268,
+        -6.936559677124023,
+        -9.426461219787598
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1635564,
+      "componentType": 5126,
+      "count": 3513,
+      "max": [
+        1.0,
+        1.0,
+        0.9997867345809937
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 544464,
+      "componentType": 5126,
+      "count": 3513,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1549248,
+      "componentType": 5125,
+      "count": 20736,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1677720,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.1765179634094238,
+        9.495862007141113,
+        1.073398232460022
+      ],
+      "min": [
+        -1.1765179634094238,
+        -9.206385612487793,
+        -8.721694946289063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2464104,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 572568,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9948161840438843,
+        1.0682612657546997
+      ],
+      "min": [
+        0.004081356804817915,
+        0.014378681778907776
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1096824,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9948161840438843,
+        1.0682612657546997
+      ],
+      "min": [
+        0.004081356804817915,
+        0.014378681778907776
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1632192,
+      "componentType": 5125,
+      "count": 365382,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3250488,
+      "componentType": 5126,
+      "count": 35279,
+      "max": [
+        1.1765179634094238,
+        9.495862007141113,
+        1.0733981132507324
+      ],
+      "min": [
+        -1.1765177249908447,
+        -9.204608917236328,
+        -8.721694946289063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3673836,
+      "componentType": 5126,
+      "count": 35279,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1621080,
+      "componentType": 5126,
+      "count": 35279,
+      "max": [
+        0.9950973987579346,
+        0.9711260795593262
+      ],
+      "min": [
+        0.0026916805654764175,
+        -0.17251324653625488
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1903312,
+      "componentType": 5126,
+      "count": 35279,
+      "max": [
+        0.9950973987579346,
+        0.9711260795593262
+      ],
+      "min": [
+        0.0026916805654764175,
+        -0.17251324653625488
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3093720,
+      "componentType": 5125,
+      "count": 188634,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4097184,
+      "componentType": 5126,
+      "count": 12885,
+      "max": [
+        0.7513653039932251,
+        9.453065872192383,
+        0.7339329719543457
+      ],
+      "min": [
+        -0.7513653039932251,
+        -0.6370345950126648,
+        -0.4024600386619568
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4251804,
+      "componentType": 5126,
+      "count": 12885,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2185544,
+      "componentType": 5126,
+      "count": 12885,
+      "max": [
+        3.966672420501709,
+        0.6623213291168213
+      ],
+      "min": [
+        -2.961613655090332,
+        -0.4946706295013428
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3848256,
+      "componentType": 5125,
+      "count": 75264,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4406424,
+      "componentType": 5126,
+      "count": 59424,
+      "max": [
+        1.172149419784546,
+        9.498672485351563,
+        0.9746861457824707
+      ],
+      "min": [
+        -1.172149419784546,
+        -9.490888595581055,
+        -9.227127075195313
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5119512,
+      "componentType": 5126,
+      "count": 59424,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2288624,
+      "componentType": 5126,
+      "count": 59424,
+      "max": [
+        1.7779422998428345,
+        1.32224440574646
+      ],
+      "min": [
+        -0.36185383796691895,
+        -0.32087090611457825
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2764016,
+      "componentType": 5126,
+      "count": 59424,
+      "max": [
+        1.7779422998428345,
+        1.32224440574646
+      ],
+      "min": [
+        -0.36185383796691895,
+        -0.32087090611457825
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4149312,
+      "componentType": 5125,
+      "count": 341760,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "attix84work (https://sketchfab.com/attix84work)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/desert-eagle-gun-1605b6c38826433fb3fe564e1d043199",
+      "title": "Desert Eagle Gun"
+    },
+    "generator": "Sketchfab-12.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5516352,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3239408,
+      "byteOffset": 5516352,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5832600,
+      "byteOffset": 8755760,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 14588360,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Black_Metal_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Metal_Brushed_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Metal_Cast_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Black_Metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0188472,
+          0.0188472,
+          0.0188472,
+          1.0
+        ],
+        "metallicFactor": 0.9745377548352577,
+        "metallicRoughnessTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.3482799190120935
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Red_Metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8000009999999997,
+          0.00279949,
+          0.003733040000000003,
+          1.0
+        ],
+        "roughnessFactor": 0.20786744006469304
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Metal_Brushed",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8468541184052922,
+          0.8468541184052922,
+          0.8468541184052922,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.85,
+        "metallicRoughnessTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.21451610941879626
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Black_Plastic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.00477696,
+          0.00477696,
+          0.00477696,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.5975670187086929
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Black_Paint",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.3902726349646438
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Bullet_Hole",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8239417257461427
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Metal_Cast",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.85,
+        "metallicRoughnessTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.8346937720786288
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Gun_Metal_Parts_Black_Metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun_Metal_Parts_Red_Metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun_Metal_Parts_Metal_Brushed_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Handle_Black_Plastic_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 16,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun__Metal_Body_Black_Paint_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TEXCOORD_0": 19
+          },
+          "indices": 20,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun__Metal_Body_Metal_Brushed_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24
+          },
+          "indices": 25,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun__Metal_Body_Metal_Brushed_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 27,
+            "POSITION": 26,
+            "TEXCOORD_0": 28,
+            "TEXCOORD_1": 29
+          },
+          "indices": 30,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun__Metal_Body_Bullet_Hole_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 32,
+            "POSITION": 31,
+            "TEXCOORD_0": 33
+          },
+          "indices": 34,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gun__Metal_Body_Metal_Cast_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 36,
+            "POSITION": 35,
+            "TEXCOORD_0": 37,
+            "TEXCOORD_1": 38
+          },
+          "indices": 39,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Desert_Eagle.fbx"
+    },
+    {
+      "children": [
+        3,
+        7,
+        9
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        -19.184774398802254,
+        2.349457358505147e-15,
+        7.4708269848859755e-06,
+        0.0,
+        7.470826984885955e-06,
+        1.448410175644637e-06,
+        19.1847743988022,
+        0.0,
+        -5.616822890227589e-13,
+        19.184774398803654,
+        -1.448410173514699e-06,
+        0.0,
+        0.0,
+        80.3554916381836,
+        0.0,
+        1.0
+      ],
+      "name": "Gun_Metal_Parts"
+    },
+    {
+      "mesh": 0,
+      "name": "Gun_Metal_Parts_Black_Metal_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Gun_Metal_Parts_Red_Metal_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Gun_Metal_Parts_Metal_Brushed_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -99.99999999999241,
+        1.2246465878873718e-14,
+        3.8941437775530106e-05,
+        0.0,
+        3.894143777553e-05,
+        7.549789982075339e-06,
+        99.99999999999213,
+        0.0,
+        -2.9277502948264183e-12,
+        99.9999999999997,
+        -7.549789970973109e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Handle"
+    },
+    {
+      "mesh": 3,
+      "name": "Handle_Black_Plastic_0"
+    },
+    {
+      "children": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "matrix": [
+        -19.184774398802254,
+        2.349457358505147e-15,
+        7.4708269848859755e-06,
+        0.0,
+        7.470826984885955e-06,
+        1.448410175644637e-06,
+        19.1847743988022,
+        0.0,
+        -5.616822890227589e-13,
+        19.184774398803654,
+        -1.448410173514699e-06,
+        0.0,
+        0.0,
+        80.3554916381836,
+        0.0,
+        1.0
+      ],
+      "name": "Gun__Metal_Body"
+    },
+    {
+      "mesh": 4,
+      "name": "Gun__Metal_Body_Black_Paint_0"
+    },
+    {
+      "mesh": 5,
+      "name": "Gun__Metal_Body_Metal_Brushed_0"
+    },
+    {
+      "mesh": 6,
+      "name": "Gun__Metal_Body_Metal_Brushed_0"
+    },
+    {
+      "mesh": 7,
+      "name": "Gun__Metal_Body_Bullet_Hole_0"
+    },
+    {
+      "mesh": 8,
+      "name": "Gun__Metal_Body_Metal_Cast_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
